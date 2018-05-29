@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+.vscode/
+package-lock.json
+yarn-error.log
+public/bundle.js
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
